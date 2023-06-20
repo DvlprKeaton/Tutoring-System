@@ -1,0 +1,12 @@
+{
+  "subject": "string",
+  "starttime": "2019-08-24T14:15:22Z",
+  "endtime": "2019-08-24T14:15:22Z",
+  "passwordrequired": true,
+  "conferencecallinfo": "string",
+  "timezonekey": "67",
+  "meetingtype": "immediate",
+  "coorganizerKeys": [
+    "string"
+  ]
+}
